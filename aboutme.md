@@ -11,19 +11,19 @@ I am currently pursuing an MS in Computer Science at the University of Chicago, 
 **University of Chicago**  
 *MS in Computer Science (Application Development Track)*  
 2023-2024  
-Chicago, IL
+Chicago, IL  
 _Revelant Course: iOS Development, Cloud Computing, Distributed Systems, Unix Programming, Discrete Math_
 
 **Duke University**  
 *MS in Quantitative Management (Business Analytics)*  
 2021-2023  
-Durham, NC
+Durham, NC  
 _Revelant Course: Advanced Data Analytics & Application, Decision Models, Empirical Analysis-Strategy, Fraud Analytics, Operation Management_
 
 **Lehigh University**  
 *BS in Finance and Information Systems (Double Major), certificate in Business Analytics*  
 2013-2017  
-Bethlehem, PA
+Bethlehem, PA  
 _Revelant Course: Time Series Analysis, Derivatives & Management of Risk, Econometric Software, Financial Modeling_
 
 
