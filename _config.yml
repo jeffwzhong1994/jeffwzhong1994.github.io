@@ -51,10 +51,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jeffwzhong@gmail.com"
-  github: "https://github.com/jeffwzhong1994"
+  github: jeffwzhong1994
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/in/jeffwzhong/"
+  linkedin: jeffwzhong
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
