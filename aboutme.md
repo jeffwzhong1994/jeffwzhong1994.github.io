@@ -32,19 +32,23 @@ _Revelant Course: Time Series Analysis, Derivatives & Management of Risk, Econom
 **Facebook**  
 *Data Scientist, Analytics*  
 2022-2023  
-Menlo Park, CA
+Menlo Park, CA  
+_Reels Producer Journey Team (under Reels Creation)_
 
 **BIGO Technology (NASDAQ:YY)**  
 *Analytics Engineer*  
 2019-2022  
-Los Angeles, CA
+Los Angeles, CA  
+_In charge of Internal Risk and Audit Department_
 
 **Vipshop (NYSE:VIPS)**  
 *Product Manager*  
 2018-2019  
-San Jose, CA
+San Jose, CA  
+_Responsible for Vipshop Visual Search (Image Search)_
 
 **Hone Capital**  
 *Investment Analyst*  
 2017-2018  
-Palo Alto, CA
+Palo Alto, CA  
+_Built Financial Models for Single Family for Rental Strategies_
