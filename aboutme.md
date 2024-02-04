@@ -4,49 +4,37 @@ title: About me
 subtitle: Education & Work Experience
 ---
 
-## Education
 
-**University of Chicago**  
-*MS in Computer Science (Application Development Track)*  
-2023-2024  
-Chicago, IL  
-_Revelant Course: iOS Development, Cloud Computing, Distributed Systems, Unix Programming, Discrete Math_
+<head>
+  <!-- Other head content -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+</head>
 
-**Duke University**  
-*MS in Quantitative Management (Business Analytics)*  
-2021-2023  
-Durham, NC  
-_Revelant Course: Advanced Data Analytics & Application, Decision Models, Empirical Analysis-Strategy, Fraud Analytics, Operation Management_
+<section class="section">
+  <div class="container">
+    <h1 class="title has-text-centered">Education</h1>
+    <hr />
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-48x48">
+              <img src="img/education/uchicago.png" alt="University of Chicago logo" />
+            </figure>
+          </div>
+          <div class="content">
+            <p class="title is-4">University of Chicago</p>
+            <p class="subtitle is-6">MS, Computer Science | 2023 - 2024</p>
+            <ul>
+              <li>Algorithms</li>
+              <li>Cloud Computing</li>
+              <!-- Add more courses as needed -->
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Repeat the card structure for other education entries -->
+  </div>
+</section>
 
-**Lehigh University**  
-*BS in Finance and Information Systems (Double Major), certificate in Business Analytics*  
-2013-2017  
-Bethlehem, PA  
-_Revelant Course: Time Series Analysis, Derivatives & Management of Risk, Econometric Software, Financial Modeling_
-
-
-## Work Experience
-
-**Facebook**  
-*Data Scientist, Analytics*  
-2022-2023  
-Menlo Park, CA
-> _Reels Producer Journey Team (under Reels Creation)_
-
-**BIGO Technology (NASDAQ:YY)**  
-*Analytics Engineer*  
-2019-2022  
-Los Angeles, CA
-> _In charge of Internal Risk and Audit Department_
-
-**Vipshop (NYSE:VIPS)**  
-*Product Manager*  
-2018-2019  
-San Jose, CA
-> _Responsible for Vipshop Visual Search (Image Search) Product_
-
-**Hone Capital**  
-*Investment Analyst*  
-2017-2018  
-Palo Alto, CA
-> _Built Financial Models for Single Family for Rental Strategies_
