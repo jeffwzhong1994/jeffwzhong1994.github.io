@@ -4,12 +4,6 @@ title: About me
 subtitle: Education & Work Experience
 ---
 
-
-<head>
-  <!-- Other head content -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
-</head>
-
 <section class="section">
   <div class="container">
     <h1 class="title has-text-centered">Education</h1>
@@ -37,4 +31,3 @@ subtitle: Education & Work Experience
     <!-- Repeat the card structure for other education entries -->
   </div>
 </section>
-
