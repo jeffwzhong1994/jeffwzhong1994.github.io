@@ -4,8 +4,6 @@ title: About me
 subtitle: Education & Work Experience
 ---
 
-I am currently pursuing an MS in Computer Science at the University of Chicago, with an expected graduation in December 2024. I am actively looking for Full-time Positions in Software Engineering, Data Engineering, or Data Science (Analytics).
-
 ## Education
 
 **University of Chicago**  
