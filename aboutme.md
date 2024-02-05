@@ -23,7 +23,7 @@ subtitle: Education & Work Experience
 <body>
     <section class="section">
       <div class="container">
-        <h1 class="title has-text-centered" style="font-size: 3rem;">Education</h1>
+        <h1 class="title has-text-centered" style="font-size: 2.5rem;">Education</h1>
         <hr />
         <div class="card">
           <div class="card-content">
@@ -51,6 +51,7 @@ subtitle: Education & Work Experience
                 <span class="tag">Unix</span>
                 <span class="tag">Swift</span>
                 <span class="tag">ZeroMQ</span>
+                <span class="tag">Flask</span>
                 <span class="tag">Latex</span>
                 <span class="tag">Git</span>
                 </div>
@@ -126,7 +127,7 @@ subtitle: Education & Work Experience
     </section>
     <section class="section">
       <div class="container">
-        <h1 class="title has-text-centered" style="font-size: 3rem;">Work Experience</h1>
+        <h1 class="title has-text-centered" style="font-size: 2.5rem;">Work Experience</h1>
         <hr />
         <div class="card">
           <div class="card-content">
