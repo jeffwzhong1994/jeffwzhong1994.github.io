@@ -1,8 +1,16 @@
----
-layout: page
-title: About me
-subtitle: Education & Work Experience
----
+<div class="bootstrap-section">
+    <div class="container-md">
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                <div class="page-heading">
+                    <h1>About me</h1>
+                    <hr class="small">
+                    <span class="page-subheading">Education & Work Experience</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="bulma-styled">
   <section class="section">
