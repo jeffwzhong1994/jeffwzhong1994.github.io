@@ -194,7 +194,7 @@ subtitle: Education & Work Experience
                   <p class="title is-4">Vipshop US Inc.</p>
                 </a>
                 <p class="subtitle is-6">Analytics Engineer | 2019 - 2022 | Los Angeles, CA</p>
-                <p class='subtitle'>Launched Vipshop Visual Search (Image Search) Product</p>
+                <p class='subtitle'>Launched Vipshop Visual Search Product</p>
                 <div class="tags">
                   <span class="tag">Product Management</span>
                   <span class="tag">Product Analytics</span>
@@ -220,7 +220,7 @@ subtitle: Education & Work Experience
                   <p class="title is-4">Hone Capital</p>
                 </a>
                 <p class="subtitle is-6">Investment Analyst | 2017 - 2018 | Palo Alto, CA</p>
-                <p class='subtitle'>Built Financial Models for Single Family for Rental Strategies</p>
+                <p class='subtitle'>Built Single Family for Rental Models</p>
                 <div class="tags">
                   <span class="tag">Financial Modeling</span>
                   <span class="tag">Private Equity</span>
