@@ -136,10 +136,9 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/facebook.jpeg" alt="Facebook logo">
                 </figure>
               </div>
-              <div class="media-content content"> <!-- Merged classes here -->
+              <div class="media-content"> <!-- Merged classes here -->
                 <p class="title is-4">Meta Platform Inc. (Former Facebook)</p>
-                <p class="subtitle is-6">Data Scientist, Analytics | Jan 2022 - Jun 2023</p>
-                <p class="subtitle is-6">Menlo Park, CA</p>
+                <p class="subtitle is-6">Data Scientist, Analytics | 2022 - 2023 | Menlo Park, CA</p>
                 <ul>
                   <li>Reels Producer Journey Team (Under Reels Creation)</li>
                   <!-- Additional job duties here -->
