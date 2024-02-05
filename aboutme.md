@@ -44,6 +44,16 @@ subtitle: Education & Work Experience
                   <li>Python Programming</li>
                   <!-- Add more courses as needed -->
                 </ul>
+                <div class="tags">
+                <span class="tag">AWS</span>
+                <span class="tag">Python</span>
+                <span class="tag">C</span>
+                <span class="tag">Unix</span>
+                <span class="tag">Swift</span>
+                <span class="tag">ZeroMQ</span>
+                <span class="tag">Latex</span>
+                <span class="tag">Git</span>
+                </div>
               </div>
             </div>
           </div>
@@ -70,6 +80,12 @@ subtitle: Education & Work Experience
                   <li>Applied Probability & Statistics</li>
                   <!-- Add more courses as needed -->
                 </ul>
+                <div class="tags">
+                <span class="tag">Python</span>
+                <span class="tag">R</span>
+                <span class="tag">Machine Learning</span>
+                <span class="tag">SQL</span>
+                </div>
               </div>
             </div>
           </div>
@@ -95,6 +111,13 @@ subtitle: Education & Work Experience
                   <li>Econometric Software</li>
                   <!-- Add more courses as needed -->
                 </ul>
+                <div class="tags">
+                <span class="tag">R</span>
+                <span class="tag">Java</span>
+                <span class="tag">Stata</span>
+                <span class="tag">SQL</span>
+                <span class="tag">EView</span>
+                </div>
               </div>
             </div>
           </div>
