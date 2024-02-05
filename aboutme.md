@@ -6,8 +6,6 @@ subtitle: Education & Work Experience
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
     <style>
         .card + .card {
@@ -63,6 +61,31 @@ subtitle: Education & Work Experience
                   <li>Financial Risk Management</li>
                   <li>Fraud Analytics</li>
                   <li>Applied Probability & Statistics</li>
+                  <!-- Add more courses as needed -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Repeat the card structure for other education entries -->
+        <div class="card card-gap">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/img/education/lehigh.svg" alt="Lehigh University logo" />
+                </figure>
+              </div>
+              <div class="content">
+                <p class="title is-4">Lehigh University</p>
+                <p class="subtitle is-6">BS, Information Systems/Finance | 2013 - 2017</p>
+                <ul>
+                  <li>Time Series Analysis</li>
+                  <li>Intro to Data Science</li>
+                  <li>Application Development for Business</li>
+                  <li>Data Management</li>
+                  <li>Derivatives & Management of Risk</li>
+                  <li>Econometric Software</li>
                   <!-- Add more courses as needed -->
                 </ul>
               </div>
