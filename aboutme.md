@@ -51,6 +51,7 @@ subtitle: Education & Work Experience
                 <span class="tag">Python</span>
                 <span class="tag">C</span>
                 <span class="tag">Unix</span>
+                <span class="tag">ShellScript</span>
                 <span class="tag">Swift</span>
                 <span class="tag">ZeroMQ</span>
                 <span class="tag">Flask</span>
