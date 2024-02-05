@@ -36,6 +36,9 @@ p {
 .card .title.is-4 {
   margin-top: 0;    /* Adjust the top margin as desired */
 }
+.card .subtitle.is-6 {
+  margin-top: 0;    /* Adjust the top margin as desired */
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
