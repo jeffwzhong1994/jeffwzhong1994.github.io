@@ -25,6 +25,7 @@
                   <li>Cloud Computing</li>
                   <li>Intro to Unix Systems</li>
                   <li>iOS Application Development</li>
+                  <li>Python Programming</li>
                   <!-- Add more courses as needed -->
                 </ul>
               </div>
