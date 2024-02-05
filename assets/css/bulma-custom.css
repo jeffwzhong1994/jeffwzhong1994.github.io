@@ -1,0 +1,24 @@
+/* bulma-custom.css */
+
+/* Example of reinforcing Bulma's `.title` and `.subtitle` styles within `.bulma-styled` */
+.bulma-styled .title {
+  font-size: 2rem; /* Bulma's default, adjust as needed */
+  font-weight: 600;
+}
+
+.bulma-styled .subtitle {
+  font-size: 1.5rem; /* Bulma's default, adjust as needed */
+  font-weight: 400;
+}
+
+/* Customizing card styles within `.bulma-styled` */
+.bulma-styled .card {
+  box-shadow: 0 2px 3px rgba(0,0,0,.1), 0 0 0 1px rgba(0,0,0,.1);
+  border-radius: 5px;
+}
+
+.bulma-styled .media-left img {
+  border-radius: 50%; /* Example of making images round */
+}
+
+/* Add more customizations as needed */
