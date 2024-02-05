@@ -186,7 +186,7 @@ subtitle: Education & Work Experience
             <div class="media">
               <div class="media-left">
                 <figure class="image is-48x48">
-                  <img src="assets/img/work/vipshop.png" alt="Vipshop LOGO">
+                  <img src="/assets/img/work/vipshop.png" alt="Vipshop LOGO">
                 </figure>
               </div>
               <div class="media-content"> <!-- Merged classes here -->
