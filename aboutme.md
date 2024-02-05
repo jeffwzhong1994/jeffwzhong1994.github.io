@@ -34,7 +34,9 @@ subtitle: Education & Work Experience
                 </figure>
               </div>
               <div class="content">
-                <p class="title is-4">University of Chicago</p>
+                <a href="https://www.uchicago.edu/en" target="_blank" class="general">
+                  <p class="title is-4">University of Chicago</p>
+                </a>
                 <p class="subtitle is-6">MS, Computer Science | 2023 - 2024</p>
                 <ul>
                   <li>Distributed Systems</li>
@@ -69,7 +71,9 @@ subtitle: Education & Work Experience
                 </figure>
               </div>
               <div class="content">
-                <p class="title is-4">Duke University</p>
+                <a href="https://www.fuqua.duke.edu/" target="_blank" class="general">
+                  <p class="title is-4">Duke University</p>
+                </a>
                 <p class="subtitle is-6">MS, Business Analytics | 2021 - 2023</p>
                 <ul>
                   <li>Advanced Data Analytics & Application</li>
@@ -101,7 +105,9 @@ subtitle: Education & Work Experience
                 </figure>
               </div>
               <div class="content">
-                <p class="title is-4">Lehigh University</p>
+                <a href="https://www2.lehigh.edu/" target="_blank" class="general">
+                  <p class="title is-4">Lehigh University</p>
+                </a>
                 <p class="subtitle is-6">BS, Information Systems & Finance | 2013 - 2017</p>
                 <ul>
                   <li>Time Series Analysis</li>
