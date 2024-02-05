@@ -7,7 +7,7 @@
 <body>
     <section class="section">
       <div class="container">
-        <h1 class="title has-text-centered">Education</h1>
+        <h1 class="title has-text-centered" style="font-size: 3rem;">Education</h1>
         <hr />
         <div class="card">
           <div class="card-content">
