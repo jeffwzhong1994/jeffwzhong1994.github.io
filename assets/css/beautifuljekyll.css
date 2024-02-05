@@ -36,7 +36,7 @@ p {
 .card .title.is-4 {
   margin-top: 0;    /* Adjust the top margin as desired */
 }
-.card .content .subtitle.is-6 {
+.card .subtitle.is-6 {
   margin-top: -1.5rem !important;
 }
 
