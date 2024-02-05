@@ -136,24 +136,20 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/facebook.jpeg" alt="Facebook logo">
                 </figure>
               </div>
-              <div class="media-content">
-                <a href="https://www.meta.com/" target="_blank" class="general">
-                  <p class="title is-4">Meta Platform Inc. (Former Facebook)</p>
-                </a>
-                <p class="subtitle is-6">
-                  <strong>Data Scientist, Analytics</strong> | <b>Jan 2022 - Jun 2023</b> | <b>Menlo Park, CA</b>
-                </p>
-              </div>
-            </div>
-            <div class="content">
-              <ul>
-                <li>Reels Producer Journey Team (Under Reels Creation)</li>
-              </ul>
-              <div class="tags">
-                <span class="tag">SQL</span>
-                <span class="tag">Python</span>
-                <span class="tag">AB Testing</span>
-                <span class="tag">Experiment Review</span>
+              <div class="media-content content"> <!-- Merged classes here -->
+                <p class="title is-4">Meta Platform Inc. (Former Facebook)</p>
+                <p class="subtitle is-6">Data Scientist, Analytics | Jan 2022 - Jun 2023</p>
+                <p class="subtitle is-6">Menlo Park, CA</p>
+                <ul>
+                  <li>Reels Producer Journey Team (Under Reels Creation)</li>
+                  <!-- Additional job duties here -->
+                </ul>
+                <div class="tags">
+                  <span class="tag">SQL</span>
+                  <span class="tag">Python</span>
+                  <span class="tag">AB Testing</span>
+                  <span class="tag">Experiment Review</span>
+                </div>
               </div>
             </div>
           </div>
