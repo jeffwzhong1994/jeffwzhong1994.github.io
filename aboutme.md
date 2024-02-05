@@ -138,13 +138,11 @@ subtitle: Education & Work Experience
                 </figure>
               </div>
               <div class="media-content"> <!-- Merged classes here -->
-                <p class="title is-4">Meta Platform Inc. (Former Facebook)</p>
+                <a href="https://www.meta.com/" target="_blank" class="general">
+                  <p class="title is-4">Meta Platform Inc. (Former Facebook)</p>
+                </a>
                 <p class="subtitle is-6">Data Scientist, Analytics | 2022 - 2023 | Menlo Park, CA</p>
-                <ul>
-                  <li>Reels Producer Journey Team (Under Reels Creation)</li>
-                  <li></li>
-                  <!-- Additional job duties here -->
-                </ul>
+                <p class='subtitle'>Reels Producer Journey Team (Under Reels Creation)</p>
                 <div class="tags">
                   <span class="tag">SQL</span>
                   <span class="tag">Python</span>
