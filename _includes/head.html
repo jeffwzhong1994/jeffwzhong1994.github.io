@@ -69,9 +69,6 @@
     {% endfor %}
   {% endif %}
 
-  <!-- Add Bulma CSS here -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
-  
   {% if layout.common-css %}
     {% for css in layout.common-css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">

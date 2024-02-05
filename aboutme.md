@@ -12,6 +12,9 @@
     </div>
 </div>
 
+<!-- Add Bulma CSS here -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+  
 <div class="bulma-styled">
   <section class="section">
     <div class="container">
