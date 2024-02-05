@@ -13,6 +13,13 @@ subtitle: Education & Work Experience
         }
     </style>
 </head> -->
+<head>
+    <style>
+        .card + .card {
+            margin-top: 2rem; /* Adjust the gap size as needed */
+        }
+    </style>
+</head>
 <body>
     <section class="section">
       <div class="container">
@@ -95,4 +102,3 @@ subtitle: Education & Work Experience
       </div>
     </section>
 </body>
-</html>
