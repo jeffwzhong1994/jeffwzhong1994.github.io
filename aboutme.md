@@ -162,22 +162,17 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/bigo.jpeg" alt="BIGO logo">
                 </figure>
               </div>
-              <div class="media-content">
-                <a href="https://www.bigo.sg/" target="_blank" class="general">
-                  <p class="title is-4">BIGO Technology</p>
-                </a>
-                <p class="subtitle is-6">
-                  <strong>Analytics Engineer</strong> | <b>Apr 2019 - Jan 2022</b> | <b>Los Angeles, CA</b>
-                </p>
-              </div>
-            </div>
-            <div class="content">
-              <ul>
-                <li>In charge of Internal Audit Team</li>
-              </ul>
+            <div class="media-content">
+              <a href="https://www.bigo.sg/" target="_blank" class="general">
+                <p class="title is-4">BIGO Technology</p>
+              </a>
+              <p class="subtitle is-6">Analytics Engineer | 2019 - 2022 | Los Angeles, CA</p>
+              <p class='subtitle'>Founding member of Data Analytics Team, built various data pipeline, data dashboard and automation tools</p>
               <div class="tags">
                 <span class="tag">SQL</span>
                 <span class="tag">Python</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">ShellScript</span>
                 <span class="tag">Data Pipelining</span>
                 <span class="tag">Data Visualization</span>
               </div>
@@ -193,27 +188,17 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/vipshop.webp" alt="Vipshop LOGO">
                 </figure>
               </div>
-              <div class="media-content">
-                <a href="https://www.vip.com/" target="_blank" class="general">
-                  <p class="title is-4">Vipshop US Inc.</p>
-                </a>
-                <p class="subtitle is-6">
-                  <strong>Product Manager</strong> |
-                  <b>Feb 2018 - Apr 2019</b> |
-                  <b>San Jose, CA</b>
-                </p>
-              </div>
-            </div>
-            <div class="content">
-              <ul>
-                <li>
-                  Launched Vipshop Visual Search (Image Search) Product
-                </li>
-              </ul>
+            <div class="media-content">
+              <a href="https://www.vip.com/" target="_blank" class="general">
+                <p class="title is-4">Vipshop US Inc.</p>
+              </a>
+              <p class="subtitle is-6">Product Manager | 2018 - 2019 | San Jose, CA</p>
+              <p class='subtitle'>Launched Vipshop Visual Search (Image Search) Product</p>
               <div class="tags">
                 <span class="tag">Product Management</span>
                 <span class="tag">Product Analytics</span>
-                <span class="tag">Project Management</span>
+                <span class="tag">Software Project Management</span>
+                <span class="tag">Product Roadmapping</span>
                 <span class="tag">SQL</span>
               </div>
             </div>
@@ -228,21 +213,12 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/honecap.jpeg" alt="Hone Capital LOGO">
                 </figure>
               </div>
-              <div class="media-content">
-                <a href="https://www.linkedin.com/company/honecapital/about/" target="_blank" class="general">
-                  <p class="title is-4">Hone Capital</p>
-                </a>
-                <p class="subtitle is-6">
-                  <strong>Investment Analyst</strong> |
-                  <b>Jun 2017 - Jan 2018</b> |
-                  <b>Palo Alto, CA</b>
-                </p>
-              </div>
-            </div>
-            <div class="content">
-              <ul>
-                <li>Built Financial Models for Single Family for Rental Strategies</li>
-              </ul>
+            <div class="media-content">
+              <a href="https://www.linkedin.com/company/honecapital/about/" target="_blank" class="general">
+                <p class="title is-4">Hone Capital</p>
+              </a>
+              <p class="subtitle is-6">Investment Analyst | 2017 - 2018 | Palo Alto, CA</p>
+              <p class='subtitle'>Built Financial Models for Single Family for Rental Strategies</p>
               <div class="tags">
                 <span class="tag">Financial Modeling</span>
                 <span class="tag">Private Equity</span>
