@@ -1,5 +1,5 @@
 ---
-layout: bulma_page
+layout: page
 title: About me
 subtitle: Education & Work Experience
 ---
