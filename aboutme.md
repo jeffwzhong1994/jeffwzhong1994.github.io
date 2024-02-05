@@ -200,7 +200,7 @@ subtitle: Education & Work Experience
                 <a href="https://www.vip.com/" target="_blank" class="general">
                   <p class="title is-4">Vipshop US Inc.</p>
                 </a>
-                <p class="subtitle is-6">Analytics Engineer | 2019 - 2022 | Los Angeles, CA</p>
+                <p class="subtitle is-6">Product Manager | 2018 - 2019 | San Jose, CA</p>
                 <p class='subtitle'>Launched Vipshop Visual Search Product</p>
                 <div class="tags">
                   <span class="tag">Product Management</span>
