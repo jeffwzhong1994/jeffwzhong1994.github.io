@@ -141,6 +141,7 @@ subtitle: Education & Work Experience
                 <p class="subtitle is-6">Data Scientist, Analytics | 2022 - 2023 | Menlo Park, CA</p>
                 <ul>
                   <li>Reels Producer Journey Team (Under Reels Creation)</li>
+                  <li></li>
                   <!-- Additional job duties here -->
                 </ul>
                 <div class="tags">
