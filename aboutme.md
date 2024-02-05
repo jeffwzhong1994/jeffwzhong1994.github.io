@@ -23,6 +23,97 @@ subtitle: Education & Work Experience
 <body>
     <section class="section">
       <div class="container">
+        <h1 class="title has-text-centered" style="font-size: 3rem;">Work Experience</h1>
+        <hr />
+        <div class="card">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/img/work/facebook.jpeg" alt="Facebook logo">
+                </figure>
+              </div>
+              <div class="media-content">
+                <a href="https://www.meta.com/" target="_blank" class="general">
+                  <p class="general">Meta Platform Inc. (Former Facebook)</p>
+                </a>
+                <p>
+                  <strong>Data Scientist, Analytics</strong> |
+                  <b>Jan 2022 - Jun 2023</b> |
+                  <b>Menlo Park, CA</b>
+                </p>
+              </div>
+            </div>
+            <div class="content">
+              <ul>
+                <li>
+                  Reels Producer Journey Team (Under Reels Creation)
+                </li>
+              </ul>
+              <div class="tags">
+                <span class="tag">SQL</span>
+                <span class="tag">Python</span>
+                <span class="tag">AB Testing</span>
+                <span class="tag">Experiment Review</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Repeat the card structure for other education entries -->
+        <div class="card card-gap">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/img/education/fuqua.jpeg" alt="Duke University logo" />
+                </figure>
+              </div>
+              <div class="content">
+                <p class="title is-4">Duke University</p>
+                <p class="subtitle is-6">MS, Business Analytics | 2021 - 2023</p>
+                <ul>
+                  <li>Advanced Data Analytics & Application</li>
+                  <li>Programming for Data Analytics</li>
+                  <li>Empirical Analysis - Strategy</li>
+                  <li>Decision Models</li>
+                  <li>Financial Risk Management</li>
+                  <li>Fraud Analytics</li>
+                  <li>Applied Probability & Statistics</li>
+                  <!-- Add more courses as needed -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Repeat the card structure for other education entries -->
+        <div class="card card-gap">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/img/education/lehigh.svg" alt="Lehigh University logo" />
+                </figure>
+              </div>
+              <div class="content">
+                <p class="title is-4">Lehigh University</p>
+                <p class="subtitle is-6">BS, Information Systems & Finance | 2013 - 2017</p>
+                <ul>
+                  <li>Time Series Analysis</li>
+                  <li>Intro to Data Science</li>
+                  <li>Application Development for Business</li>
+                  <li>Data Management</li>
+                  <li>Derivatives & Management of Risk</li>
+                  <li>Econometric Software</li>
+                  <!-- Add more courses as needed -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
         <h1 class="title has-text-centered" style="font-size: 3rem;">Education</h1>
         <hr />
         <div class="card">
