@@ -13,7 +13,7 @@ subtitle: Education & Work Experience
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-              <img src="img/education/uchicago.png" alt="University of Chicago logo" />
+              <img src="assets/img/educations/uchicago.png" alt="University of Chicago logo" />
             </figure>
           </div>
           <div class="content">
