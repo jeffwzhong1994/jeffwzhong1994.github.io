@@ -4,7 +4,7 @@ title: About me
 subtitle: Education & Work Experience
 ---
 
-<html lang="en">
+<!-- <html lang="en">
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
     <style>
@@ -12,7 +12,7 @@ subtitle: Education & Work Experience
             margin-top: 2rem; /* Adjust the gap size as needed */
         }
     </style>
-</head>
+</head> -->
 <body>
     <section class="section">
       <div class="container">
