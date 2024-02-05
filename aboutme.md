@@ -1,3 +1,9 @@
+---
+layout: bulma_page
+title: About me
+subtitle: Education & Work Experience
+---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
