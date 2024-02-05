@@ -247,6 +247,7 @@ subtitle: Education & Work Experience
               </ul>
               <div class="tags">
                 <span class="tag">Financial Modeling</span>
+                <span class="tag">Private Equity</span>
                 <span class="tag">Market Research</span>
                 <span class="tag">Data Scraping</span>
                 <span class="tag">VBA</span>
