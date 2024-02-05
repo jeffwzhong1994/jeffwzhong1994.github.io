@@ -85,7 +85,7 @@ subtitle: Education & Work Experience
               </div>
               <div class="content">
                 <p class="title is-4">Lehigh University</p>
-                <p class="subtitle is-6">BS, Information Systems/Finance | 2013 - 2017</p>
+                <p class="subtitle is-6">BS, Information Systems & Finance | 2013 - 2017</p>
                 <ul>
                   <li>Time Series Analysis</li>
                   <li>Intro to Data Science</li>
