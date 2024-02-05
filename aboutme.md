@@ -162,50 +162,52 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/bigo.jpeg" alt="BIGO logo">
                 </figure>
               </div>
-            <div class="media-content">
-              <a href="https://www.bigo.sg/" target="_blank" class="general">
-                <p class="title is-4">BIGO Technology</p>
-              </a>
-              <p class="subtitle is-6">Analytics Engineer | 2019 - 2022 | Los Angeles, CA</p>
-              <p class='subtitle'>Founding member of Data Analytics Team, built various data pipeline, data dashboard and automation tools</p>
-              <div class="tags">
-                <span class="tag">SQL</span>
-                <span class="tag">Python</span>
-                <span class="tag">JavaScript</span>
-                <span class="tag">ShellScript</span>
-                <span class="tag">Data Pipelining</span>
-                <span class="tag">Data Visualization</span>
+              <div class="media-content"> <!-- Merged classes here -->
+                <a href="https://www.bigo.sg/" target="_blank" class="general">
+                  <p class="title is-4">BIGO Technology</p>
+                </a>
+                <p class="subtitle is-6">Analytics Engineer | 2019 - 2022 | Los Angeles, CA</p>
+                <p class='subtitle'>Founding member of Data Analytics Team</p>
+                <div class="tags">
+                  <span class="tag">SQL</span>
+                  <span class="tag">Python</span>
+                  <span class="tag">JavaScript</span>
+                  <span class="tag">ShellScript</span>
+                  <span class="tag">Data Pipelining</span>
+                  <span class="tag">Data Visualization</span>
+                </div>
               </div>
             </div>
           </div>
         </div>
         <!-- Repeat the card structure for other education entries -->
-        <div class="card card-gap">
+        <div class="card">
           <div class="card-content">
             <div class="media">
               <div class="media-left">
                 <figure class="image is-48x48">
-                  <img src="/assets/img/work/vipshop.webp" alt="Vipshop LOGO">
+                  <img src="assets/img/work/vipshop.webp" alt="Vipshop LOGO">
                 </figure>
               </div>
-            <div class="media-content">
-              <a href="https://www.vip.com/" target="_blank" class="general">
-                <p class="title is-4">Vipshop US Inc.</p>
-              </a>
-              <p class="subtitle is-6">Product Manager | 2018 - 2019 | San Jose, CA</p>
-              <p class='subtitle'>Launched Vipshop Visual Search (Image Search) Product</p>
-              <div class="tags">
-                <span class="tag">Product Management</span>
-                <span class="tag">Product Analytics</span>
-                <span class="tag">Software Project Management</span>
-                <span class="tag">Product Roadmapping</span>
-                <span class="tag">SQL</span>
+              <div class="media-content"> <!-- Merged classes here -->
+                <a href="https://www.vip.com/" target="_blank" class="general">
+                  <p class="title is-4">Vipshop US Inc.</p>
+                </a>
+                <p class="subtitle is-6">Analytics Engineer | 2019 - 2022 | Los Angeles, CA</p>
+                <p class='subtitle'>Launched Vipshop Visual Search (Image Search) Product</p>
+                <div class="tags">
+                  <span class="tag">Product Management</span>
+                  <span class="tag">Product Analytics</span>
+                  <span class="tag">Software Project Management</span>
+                  <span class="tag">Product Roadmapping</span>
+                  <span class="tag">SQL</span>
+                </div>
               </div>
             </div>
           </div>
         </div>
         <!-- Repeat the card structure for other education entries -->
-        <div class="card card-gap">
+        <div class="card">
           <div class="card-content">
             <div class="media">
               <div class="media-left">
@@ -213,18 +215,19 @@ subtitle: Education & Work Experience
                   <img src="/assets/img/work/honecap.jpeg" alt="Hone Capital LOGO">
                 </figure>
               </div>
-            <div class="media-content">
-              <a href="https://www.linkedin.com/company/honecapital/about/" target="_blank" class="general">
-                <p class="title is-4">Hone Capital</p>
-              </a>
-              <p class="subtitle is-6">Investment Analyst | 2017 - 2018 | Palo Alto, CA</p>
-              <p class='subtitle'>Built Financial Models for Single Family for Rental Strategies</p>
-              <div class="tags">
-                <span class="tag">Financial Modeling</span>
-                <span class="tag">Private Equity</span>
-                <span class="tag">Market Research</span>
-                <span class="tag">Data Scraping</span>
-                <span class="tag">VBA</span>
+              <div class="media-content"> <!-- Merged classes here -->
+                <a href="https://www.linkedin.com/company/honecapital/about/" target="_blank" class="general">
+                  <p class="title is-4">Hone Capital</p>
+                </a>
+                <p class="subtitle is-6">Investment Analyst | 2017 - 2018 | Palo Alto, CA</p>
+                <p class='subtitle'>Built Financial Models for Single Family for Rental Strategies</p>
+                <div class="tags">
+                  <span class="tag">Financial Modeling</span>
+                  <span class="tag">Private Equity</span>
+                  <span class="tag">Market Research</span>
+                  <span class="tag">Data Scraping</span>
+                  <span class="tag">VBA</span>
+                </div>
               </div>
             </div>
           </div>
