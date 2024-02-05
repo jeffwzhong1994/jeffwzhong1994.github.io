@@ -37,7 +37,7 @@ p {
   margin-top: 0;    /* Adjust the top margin as desired */
 }
 /* Assuming .media-content is a parent of your <p> */
-.media-content p.subtitle.is-6 {
+.card .subtitle.is-6 {
   margin-top: 0;
 }
 
