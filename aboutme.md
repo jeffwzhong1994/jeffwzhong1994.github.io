@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
 </head>
 <body>
@@ -33,7 +32,7 @@
           </div>
         </div>
         <!-- Repeat the card structure for other education entries -->
-        <div class="card">
+        <div class="card card-gap">
           <div class="card-content">
             <div class="media">
               <div class="media-left">
