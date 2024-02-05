@@ -37,7 +37,7 @@
             <div class="media">
               <div class="media-left">
                 <figure class="image is-48x48">
-                  <img src="/assets/img/education/uchicago.png" alt="Duke University logo" />
+                  <img src="/assets/img/education/fuqua.jpeg" alt="Duke University logo" />
                 </figure>
               </div>
               <div class="content">
