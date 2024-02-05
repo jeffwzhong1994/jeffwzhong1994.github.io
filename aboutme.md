@@ -22,8 +22,10 @@
                 <p class="title is-4">University of Chicago</p>
                 <p class="subtitle is-6">MS, Computer Science | 2023 - 2024</p>
                 <ul>
-                  <li>Algorithms</li>
+                  <li>Distributed Systems</li>
                   <li>Cloud Computing</li>
+                  <li>Intro to Unix Systems</li>
+                  <li>iOS Application Development</li>
                   <!-- Add more courses as needed -->
                 </ul>
               </div>
@@ -31,6 +33,31 @@
           </div>
         </div>
         <!-- Repeat the card structure for other education entries -->
+        <div class="card">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/img/education/uchicago.png" alt="Duke University logo" />
+                </figure>
+              </div>
+              <div class="content">
+                <p class="title is-4">Duke University</p>
+                <p class="subtitle is-6">MS, Business Analytics | 2021 - 2023</p>
+                <ul>
+                  <li>Advanced Data Analytics & Application</li>
+                  <li>Programming for Data Analytics</li>
+                  <li>Empirical Analysis - Strategy</li>
+                  <li>Decision Models</li>
+                  <li>Financial Risk Management</li>
+                  <li>Fraud Analytics</li>
+                  <li>Applied Probability & Statistics</li>
+                  <!-- Add more courses as needed -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 </body>
