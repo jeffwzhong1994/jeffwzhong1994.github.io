@@ -39,3 +39,8 @@ An innovative iOS application that utilizes Swift's UIKit and GitHub's REST API 
 > A map-based iOS application that accentuates landmarks across Chicago using MapKit
 The app features a full-screen map devoid of Apple's default points of interest, showcasing Apple's default points of interest in favor of custom annotations and provides an immersive interface complete with a transparent HUD for detailed landmark information. Designed with adaptability in mind, the app supports various device orientations and sizes using Storyboards for UI layout, ensuring a versatile experience across all iPhone models.
 
+
+### Linguistic Forensics: A Markov Model Approach to Speaker Recognition
+
+> A Markov model-based text analysis system alongside a custom hash tables
+The text analysis system leverages Markov models alongside a bespoke hash table implementation. It focused on utilizing Markov models for statistical analysis of texts, capturing not only the frequencies but also intricate contextual relationships between sequences. Additionally, the project entailed the creation of an efficient hash table utilizing separate chaining for data management. This component was designed to adeptly manage collision resolutions and enable the tailored design of data structures, thereby enhancing the overall efficiency and adaptability of the system.
