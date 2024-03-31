@@ -43,6 +43,7 @@ subtitle: Education & Work Experience
                   <li>Cloud Computing</li>
                   <li>Parallel Programming</li>
                   <li>Intro to Unix Systems</li>
+                  <li>High Performance Computing</li>
                   <li>iOS Application Development</li>
                   <li>Python Programming</li>
                   <li>Intro to Robotics</li>
