@@ -41,9 +41,11 @@ subtitle: Education & Work Experience
                 <ul>
                   <li>Distributed Systems</li>
                   <li>Cloud Computing</li>
+                  <li>Parallel Programming</li>
                   <li>Intro to Unix Systems</li>
                   <li>iOS Application Development</li>
                   <li>Python Programming</li>
+                  <li>Intro to Robotics</li>
                   <!-- Add more courses as needed -->
                 </ul>
                 <div class="tags">
@@ -57,6 +59,8 @@ subtitle: Education & Work Experience
                 <span class="tag">Flask</span>
                 <span class="tag">Latex</span>
                 <span class="tag">Git</span>
+                <span class="tag">Go</span>
+                <span class="tag">ROS</span>
                 </div>
               </div>
             </div>
