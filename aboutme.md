@@ -47,6 +47,8 @@ subtitle: Education & Work Experience
                   <li>iOS Application Development</li>
                   <li>Python Programming</li>
                   <li>Intro to Robotics</li>
+                  <li>Algorithms</li>
+                  <li>Discrete Maths</li>
                   <!-- Add more courses as needed -->
                 </ul>
                 <div class="tags">
