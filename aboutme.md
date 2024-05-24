@@ -42,6 +42,7 @@ subtitle: Education & Work Experience
                   <li>Distributed Systems</li>
                   <li>Cloud Computing</li>
                   <li>Parallel Programming</li>
+                  <li>GPU Programming</li>
                   <li>Intro to Unix Systems</li>
                   <li>High Performance Computing</li>
                   <li>iOS Application Development</li>
