@@ -56,6 +56,7 @@ subtitle: Education & Work Experience
                 <span class="tag">AWS</span>
                 <span class="tag">Python</span>
                 <span class="tag">C</span>
+                <span class="tag">Cuda</span>
                 <span class="tag">Unix</span>
                 <span class="tag">ShellScript</span>
                 <span class="tag">Swift</span>
